@@ -14,7 +14,8 @@ Este proyecto forma parte del trabajo final del Diplomado en Testing Funcional. 
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/alexander1191/ProyectoFinal_M8_G8.git
+git clone https://github.com/joselitooo/ProyectoFinal_M8_G8
+descomprimir los archivos descargados 
 cd ProyectoFinal_M8_G8
 ```
 ## 2. Registra tu aplicación en Spotify Developer
