@@ -14,8 +14,8 @@ Este proyecto forma parte del trabajo final del Diplomado en Testing Funcional. 
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/alexander1191/ProyectoFinal_M4_G4.git
-cd ProyectoFinal_M4_G4
+git clone https://github.com/alexander1191/ProyectoFinal_M8_G8.git
+cd ProyectoFinal_M8_G8
 ```
 ## 2. Registra tu aplicación en Spotify Developer
 - Ingresa a Spotify Developer Dashboard
@@ -47,7 +47,7 @@ mvn test -Dkarate.options="classpath:apitests/<ruta_archivo>.feature"
 ##  5. Estructura del proyecto
 
 ```bash
-ProyectoFinal_M4_G4/
+ProyectoFinal_M8_G8/
 ├── apitests/
 │   ├── oauth/
 │   ├── album/
